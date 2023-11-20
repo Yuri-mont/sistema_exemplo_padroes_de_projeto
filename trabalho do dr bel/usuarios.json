@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "bel",
+    "email": "bel@unifor.com.br",
+    "senha": "password123"
+  },
+  {
+    "nome": "yuri",
+    "email": "yuri@alunounifor.com.br",
+    "senha": "password456"
+  }
+]
